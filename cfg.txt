@@ -1,0 +1,7 @@
+# mail
+address = #address:port
+user = #user
+pass = #password
+# config
+root = /home/usr/go/
+dir = true
